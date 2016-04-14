@@ -2,6 +2,8 @@ Fighter
 ============
 Fighter game (Unity 3D)
 
+[![Build Status](https://travis-ci.org/ericpinet/Fighter.svg?branch=master)](https://travis-ci.org/ericpinet/Fighter)
+
 ![Fighter](https://github.com/ericpinet/Fighter/blob/master/README/Fighter.png)
 
 ## Requirements
