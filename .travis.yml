@@ -1,4 +1,5 @@
 language: objective-c
+sudo: false
 
 osx_image: xcode61
 
